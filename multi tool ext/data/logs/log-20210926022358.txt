@@ -1,0 +1,7 @@
+[+]|02:23:58|Info: Welcome to Artiko Multi Tool
+[+]|02:23:58|Info: Key Found
+[+]|02:23:59|Info: Authenticating...
+[+]|02:23:59|Info: Successfully Authenticated
+[+]|02:24:01|Info: Updating Chromedriver
+[+]|02:24:01|Info: Finished updating Chromedriver
+[+]|02:24:11|Info: Closing

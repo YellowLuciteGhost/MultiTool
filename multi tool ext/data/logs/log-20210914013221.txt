@@ -1,0 +1,5 @@
+[+]|01:32:21|Info: Welcome to Artiko Multi Tool
+[+]|01:32:21|Info: Key Found
+[+]|01:32:21|Info: Authenticating...
+[+]|01:32:21|Info: Successfully Authenticated
+[+]|01:32:22|Info: Closing

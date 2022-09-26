@@ -1,0 +1,38 @@
+[+]|01:23:07|Info: Welcome to Artiko Multi Tool
+[+]|01:23:07|Info: Key Found
+[+]|01:23:07|Info: Authenticating...
+[+]|01:23:08|Info: Successfully Authenticated
+[+]|01:23:10|Info: Updating Chromedriver
+[+]|01:23:31|Info: Finished updating Chromedriver
+[+]|01:23:31|Info: Loading 10 accounts
+[+]|01:23:31|Info: Loaded 10 accounts in 0.02 seconds
+[+]|01:23:36|Info: Finished checking 10 tokens in 0.2 seconds
+[-]|01:23:36|Warning: 10 tokens require verification
+[+]|01:23:36|Info: Disabled 10 bad tokens
+[+]|01:23:36|Info: Loading 10 accounts
+[+]|01:23:36|Info: Loaded 10 accounts in 0.01 seconds
+[+]|01:23:40|Info: Loading 10 accounts
+[+]|01:23:40|Info: Loaded 10 accounts in 0.01 seconds
+[+]|01:23:44|Info: Finished checking 10 tokens in 0.2 seconds
+[-]|01:23:44|Warning: 10 tokens require verification
+[+]|01:23:48|Info: Finished checking 10 tokens in 0.2 seconds
+[-]|01:23:48|Warning: 10 tokens require verification
+[+]|01:23:48|Info: Disabled 10 bad tokens
+[+]|01:23:48|Info: Loading 10 accounts
+[+]|01:23:48|Info: Loaded 10 accounts in 0.01 seconds
+[+]|01:24:59|Info: Welcome to Artiko Multi Tool
+[+]|01:24:59|Info: Key Found
+[+]|01:25:00|Info: Authenticating...
+[+]|01:25:00|Info: Successfully Authenticated
+[+]|01:25:02|Info: Loading 10 accounts
+[+]|01:25:02|Info: Loaded 10 accounts in 0.02 seconds
+[+]|01:25:02|Info: Updating Chromedriver
+[+]|01:25:23|Info: Finished updating Chromedriver
+[+]|01:26:06|Info: Finished checking 10 tokens in 0.2 seconds
+[-]|01:26:06|Warning: 10 tokens require verification
+[+]|01:26:06|Info: Disabled 10 bad tokens
+[+]|01:26:06|Info: Loading 10 accounts
+[+]|01:26:06|Info: Loaded 10 accounts in 0.01 seconds
+[+]|01:26:33|Info: Loading 10 accounts
+[+]|01:26:33|Info: Loaded 10 accounts in 0.01 seconds
+[+]|01:26:34|Info: Closing
